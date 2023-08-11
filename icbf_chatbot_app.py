@@ -4,10 +4,10 @@ import streamlit as st
 import chatbot_methods
 
 # Title of the Chatbot
-st.title("ICBF Chatbot!")
-st.caption("by: Aurelia Ayala Usma @ Factored.ai")
+st.title("ICBF Chatbot 💬🤖! (Unofficial)")
+st.caption("by: Aurelia Ayala Usma 💁🏻‍♀️ @ Factored.ai")
 st.markdown(
-    "*Este es un ChatBot bilingue que puede responder tus dudas en Español e Inglés al respecto de los procesos y funciones llevados a cabo por el Instituto Colombiano de Bienestar Familiar (ICBF)  //  This is a bilingual ChatBot in English and Spanish that answers your questions about processes and functions of the Colombian Institute of Family Welfare (ICBF)*"
+    "*Este es un ChatBot bilingüe que puede responder tus dudas en Español e Inglés (🇨🇴/🇺🇸) al respecto de los procesos y funciones llevados a cabo por el Instituto Colombiano de Bienestar Familiar (ICBF)  //  This is a bilingual ChatBot in English and Spanish (🇨🇴/🇺🇸) that answers your questions about processes and functions of the Colombian Institute of Family Welfare (ICBF)*"
 )
 st.divider()
 
