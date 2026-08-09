@@ -2,7 +2,7 @@
 *A bilingual ChatBot created to answer to FAQs asked to the Colombian Institute for Family Welfare (ICBF).*
 
 ----
-This repository is unmaintained and kept here as portfolio. To check my current developments, please visit my profile.
+This repository is unmaintained and kept here as portfolio. To check my current developments, please visit [my profile](https://github.com/ayala-usma).
 ----
 
 **Please try it out here!** -> [📲](https://icbf-chatbot-unofficial.streamlit.app/)
