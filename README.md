@@ -1,6 +1,10 @@
 # ICBF Bilingual Chatbot 💬🤖! (Unofficial)
 *A bilingual ChatBot created to answer to FAQs asked to the Colombian Institute for Family Welfare (ICBF).*
 
+----
+This repository is unmaintained and kept here as portfolio. To check my current developments, please visit my profile.
+----
+
 **Please try it out here!** -> [📲](https://icbf-chatbot-unofficial.streamlit.app/)
 
 * The application was carried out by performing webscraping of the [Frequent Answers to Questions](https://www.icbf.gov.co/servicios/preguntas-y-respuestas-frecuentes) of the ICBF. Then, the answers were preprocessed and stored in a FAISS vector store. A LLMChain that uses GPT-3.5 is then used to process incoming user questions to look for accurate responses in the Vector Store. The deployed chain is hosted in Databricks, and the Frontend is hosted as a Streamlit App.
